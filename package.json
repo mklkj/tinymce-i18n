@@ -1,0 +1,17 @@
+{
+  "name": "tinymce-i18n",
+  "version": "1.0.0",
+  "description": "Languages for TinyMCE 4",
+  "keywords": [
+    "tinymce",
+    "i18n",
+    "languages"
+  ],
+  "homepage": "https://www.tinymce.com/download/language-packages/",
+  "type": "library",
+  "authors": [
+    {
+      "name": "TinyMCE Community"
+    }
+  ]
+}
