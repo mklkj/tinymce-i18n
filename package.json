@@ -1,17 +1,17 @@
 {
   "name": "tinymce-i18n",
-  "version": "17.07.08",
+  "version": "17.08.05",
   "description": "Languages for TinyMCE 4",
   "keywords": [
-    "tinymce",
     "i18n",
-    "languages"
+    "languages",
+    "tinymce"
   ],
-  "homepage": "https://www.tinymce.com/download/language-packages/",
-  "type": "library",
+  "homepage": "https://github.com/mklkj/tinymce-i18n",
   "authors": [
     {
       "name": "TinyMCE Community"
     }
-  ]
+  ],
+  "type": "library"
 }
