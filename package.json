@@ -1,12 +1,16 @@
 {
   "name": "tinymce-i18n",
-  "version": "17.11.4",
+  "version": "17.12.25",
   "description": "Languages for TinyMCE 4",
   "keywords": [
     "i18n",
     "languages",
     "tinymce"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mklkj/tinymce-i18n.git"
+  },
   "homepage": "https://github.com/mklkj/tinymce-i18n",
   "authors": [
     {
