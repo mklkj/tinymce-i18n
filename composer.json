@@ -1,5 +1,5 @@
 {
-  "name": "tinymce-i18n",
+  "name": "mklkj/tinymce-i18n",
   "version": "17.12.25",
   "description": "Languages for TinyMCE 4",
   "keywords": [
@@ -13,12 +13,5 @@
     {
       "name": "TinyMCE Community"
     }
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/mklkj/tinymce-i18n.git"
-  },
-  "scripts": {
-    "update": "sh update.sh"
-  }
+  ]
 }
