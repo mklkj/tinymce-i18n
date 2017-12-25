@@ -17,5 +17,8 @@
       "name": "TinyMCE Community"
     }
   ],
-  "type": "library"
+  "type": "library",
+  "scripts": {
+    "update": "sh update.sh"
+  }
 }
