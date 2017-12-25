@@ -4,8 +4,16 @@ Languages for TinyMCE 4
 
 https://www.tinymce.com/download/language-packages/
 
-Update langs:
+## Instalation
 
+Via npm
+
+```bash
+$ npm install tinymce-i18n
 ```
-$ npm run update
+
+Via composer
+
+```bash
+$ composer require mklkj/tinymce-i18n dev-master
 ```
