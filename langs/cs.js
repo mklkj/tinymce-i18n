@@ -53,7 +53,7 @@ tinymce.addI18n('cs',{
 "Font Sizes": "Velikost p\u00edsma",
 "Class": "T\u0159\u00edda",
 "Browse for an image": "Vyhledat obr\u00e1zek",
-"OR": "OR",
+"OR": "nebo",
 "Drop an image here": "Nahr\u00e1t obr\u00e1zek",
 "Upload": "Nahr\u00e1t",
 "Block": "Blok",
