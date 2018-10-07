@@ -1,0 +1,18 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/node
+    working_directory: ~/repo
+
+    steps:
+      - checkout
+      - run:
+          name: Update langs
+          command: ./update.sh
+      - run:
+          name: Authenticate with registry
+          command: echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > ~/repo/.npmrc
+      - run:
+          name: Publish package
+          command: if [[ `npm show tinymce-i18n version` != `date +%y.%-m.%-d` ]]; then npm publish; else echo Already published; fi

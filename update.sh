@@ -70,5 +70,5 @@ rm -r ./langs/
 
 unzip langs.zip
 
-jq ".version = \"`date +%y.%m.%d`\"" package.json > tmp.$$.json && mv tmp.$$.json package.json
-jq ".version = \"`date +%y.%m.%d`\"" composer.json > tmp.$$.json && mv tmp.$$.json composer.json
+jq ".version = \"`date +%y.%-m.%-d`\"" package.json > tmp.$$.json && mv tmp.$$.json package.json
+jq ".version = \"`date +%y.%-m.%-d`\"" composer.json > tmp.$$.json && mv tmp.$$.json composer.json
