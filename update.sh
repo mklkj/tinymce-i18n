@@ -1,22 +1,27 @@
 #!/usr/bin/env sh
 
 wget \
-	"https://tinymce-services.azurewebsites.net/1/i18n/download?langs="`
+	"https://www.tiny.cloud/tinymce-services-azure/1/i18n/download?langs="`
 	`"af_ZA,"`
 	`"ar,"`
+	`"az,"`
+	`"eu,"`
 	`"be,"`
+	`"bn_BD,"`
 	`"bg_BG,"`
 	`"ca,"`
 	`"zh_CN,"`
 	`"zh_TW,"`
 	`"hr,"`
 	`"cs,"`
+	`"cs_CZ,"`
 	`"da,"`
 	`"dv,"`
 	`"nl,"`
 	`"en_CA,"`
 	`"en_GB,"`
 	`"et,"`
+	`"fi,"`
 	`"fr_FR,"`
 	`"gl,"`
 	`"ka_GE,"`
@@ -25,6 +30,7 @@ wget \
 	`"el,"`
 	`"he_IL,"`
 	`"hu_HU,"`
+	`"id,"`
 	`"ga,"`
 	`"it,"`
 	`"ja,"`
@@ -33,6 +39,7 @@ wget \
 	`"km_KH,"`
 	`"ko_KR,"`
 	`"lv,"`
+	`"lt,"`
 	`"nb_NO,"`
 	`"fa_IR,"`
 	`"pl,"`
@@ -40,6 +47,7 @@ wget \
 	`"pt_PT,"`
 	`"ro,"`
 	`"ru,"`
+	`"sr,"`
 	`"sk,"`
 	`"sl_SI,"`
 	`"es,"`
@@ -50,6 +58,7 @@ wget \
 	`"th_TH,"`
 	`"tr,"`
 	`"tr_TR,"`
+	`"ug,"`
 	`"uk,"`
 	`"uk_UA,"`
 	`"uz,"`

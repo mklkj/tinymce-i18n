@@ -7,7 +7,7 @@
 
 Languages for TinyMCE 4
 
-https://www.tinymce.com/download/language-packages/
+https://www.tiny.cloud/get-tiny/language-packages/
 
 ## Instalation
 
