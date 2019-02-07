@@ -1,7 +1,7 @@
 version: 2
 
 jobs:
-  deploy:
+  publish:
     docker:
       - image: circleci/node
     working_directory: ~/repo
@@ -14,3 +14,13 @@ jobs:
       - run:
           name: Publish package
           command: if [[ `npm show tinymce-i18n version` != `date +%y.%-m.%-d` ]]; then npm publish; else echo Already published; fi
+
+workflows:
+  version: 2
+  approval-deploy:
+    jobs:
+      - publish:
+          type: approval
+      - deploy:
+          requires:
+            - publish
