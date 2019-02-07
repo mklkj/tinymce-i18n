@@ -19,8 +19,8 @@ workflows:
   version: 2
   approval-deploy:
     jobs:
-      - publish:
-          type: approval
       - deploy:
+          type: approval
+      - publish:
           requires:
-            - publish
+            - deploy
