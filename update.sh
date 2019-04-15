@@ -66,9 +66,13 @@ wget \
 	`"cy" \
 	-O langs.zip
 
-rm -r ./langs/
+mv ./langs ./langs4
 
+rm -r ./langs5
 unzip langs.zip
+mv ./langs ./langs5
+
+mv ./langs4 ./langs
 
 jq ".version = \"`date +%y.%-m.%-d`\"" package.json > tmp.$$.json && mv tmp.$$.json package.json
 jq ".version = \"`date +%y.%-m.%-d`\"" composer.json > tmp.$$.json && mv tmp.$$.json composer.json

@@ -1,7 +1,7 @@
 {
   "name": "tinymce-i18n",
-  "version": "19.2.11",
-  "description": "Languages for TinyMCE 4",
+  "version": "19.4.15",
+  "description": "Languages for TinyMCE 4 and 5",
   "keywords": [
     "i18n",
     "languages",
