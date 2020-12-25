@@ -3,7 +3,9 @@
 wget \
 	"https://www.tiny.cloud/tinymce-services-azure/1/i18n/download?langs="`
 	`"ar,"`
+	`"hy,"`
 	`"eu,"`
+	`"bn_BD,"`
 	`"bg_BG,"`
 	`"ca,"`
 	`"zh_CN,"`
@@ -13,6 +15,7 @@ wget \
 	`"da,"`
 	`"nl,"`
 	`"eo,"`
+	`"et,"`
 	`"fi,"`
 	`"fr_FR,"`
 	`"gl,"`
@@ -24,8 +27,10 @@ wget \
 	`"it,"`
 	`"it_IT,"`
 	`"ja,"`
+	`"kab,"`
 	`"kk,"`
 	`"ko_KR,"`
+	`"ku,"`
 	`"lt,"`
 	`"nb_NO,"`
 	`"fa,"`
@@ -36,6 +41,7 @@ wget \
 	`"ro,"`
 	`"ro_RO,"`
 	`"ru,"`
+	`"ru_RU,"`
 	`"sk,"`
 	`"sl,"`
 	`"sl_SI,"`
