@@ -176,7 +176,7 @@ tinymce.addI18n('nb_NO',{
 "Paste as text": "Lim inn som tekst",
 "Preview": "Forh\u00e5ndsvisning",
 "Print...": "Skriv ut...",
-"Save": "Arkiver",
+"Save": "Lagre",
 "Find": "Finn",
 "Replace with": "Erstatt med",
 "Replace": "Erstatt",
