@@ -6,7 +6,7 @@
 [![npm](https://img.shields.io/npm/dw/tinymce-i18n.svg?style=flat-square)](https://www.npmjs.com/package/tinymce-i18n)
 [![Packagist](https://img.shields.io/packagist/dt/mklkj/tinymce-i18n.svg?style=flat-square)](https://packagist.org/packages/mklkj/tinymce-i18n)
 
-Languages for TinyMCE 4 and 5
+Languages for TinyMCE 4, 5 and 6
 
 https://www.tiny.cloud/get-tiny/language-packages/
 

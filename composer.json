@@ -1,18 +1,16 @@
 {
-  "name": "mklkj/tinymce-i18n",
-  "version": "22.2.11",
-  "description": "Languages for TinyMCE 4 and 5",
-  "keywords": [
-    "i18n",
-    "languages",
-    "tinymce"
-  ],
-  "homepage": "https://github.com/mklkj/tinymce-i18n",
-  "type": "library",
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "TinyMCE Community"
-    }
-  ]
+    "name": "mklkj/tinymce-i18n",
+    "version": "22.4.22",
+    "description": "Languages for TinyMCE 4, 5 and 6",
+    "keywords": [
+        "i18n",
+        "languages",
+        "tinymce"
+    ],
+    "homepage": "https://github.com/mklkj/tinymce-i18n",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "TinyMCE Community"
+    }]
 }
