@@ -22,7 +22,7 @@
   "scripts": {
     "update": "sh update.sh"
   },
-  "dependencies": {
+  "devDependencies": {
     "js-beautify": "^1.14.3"
   }
 }
