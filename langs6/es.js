@@ -230,7 +230,7 @@ tinymce.addI18n('es', {
     "Dotted": "Puntos",
     "Dashed": "Guiones",
     "Double": "Doble",
-    "Groove": "",
+    "Groove": "Groove",
     "Ridge": "",
     "Inset": "",
     "Outset": "",
