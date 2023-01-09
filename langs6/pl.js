@@ -43,8 +43,8 @@ tinymce.addI18n('pl', {
     "Heading 5": "Nagłówek 5",
     "Heading 6": "Nagłówek 6",
     "Preformatted": "Wstępne formatowanie",
-    "Div": "",
-    "Pre": "",
+    "Div": "Div",
+    "Pre": "Pre",
     "Code": "Kod",
     "Paragraph": "Akapit",
     "Blockquote": "Blok cytatu",
@@ -204,7 +204,7 @@ tinymce.addI18n('pl', {
     "Cell styles": "Style komórek",
     "Column header": "Nagłówek kolumny",
     "Row header": "Nagłówek wiersza",
-    "Table caption": "",
+    "Table caption": "Tytuł tabeli",
     "Caption": "Tytuł",
     "Show caption": "Pokaż podpis",
     "Left": "Lewo",
@@ -405,8 +405,8 @@ tinymce.addI18n('pl', {
     "Line height": "Wysokość Linii",
     "Dropped file type is not supported": "Dodany typ pliku nie jest obsługiwany",
     "Loading...": "Wczytywanie...",
-    "ImageProxy HTTP error: Rejected request": "",
-    "ImageProxy HTTP error: Could not find Image Proxy": "",
-    "ImageProxy HTTP error: Incorrect Image Proxy URL": "",
-    "ImageProxy HTTP error: Unknown ImageProxy error": ""
+    "ImageProxy HTTP error: Rejected request": "ImageProxy HTTP błąd: Odrzucono żądanie",
+    "ImageProxy HTTP error: Could not find Image Proxy": "ImageProxy HTTP błąd: Nie znaleziono Image Proxy",
+    "ImageProxy HTTP error: Incorrect Image Proxy URL": "ImageProxy HTTP błąd: Nieprawidłowy adres URL Image Proxy",
+    "ImageProxy HTTP error: Unknown ImageProxy error": "ImageProxy HTTP błąd: Nieznany błąd ImageProxy"
 });
