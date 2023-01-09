@@ -403,7 +403,7 @@ tinymce.addI18n('cs', {
     "List properties...": "Vlastnosti seznamu...",
     "Start list at number": "Počáteční číslo seznamu",
     "Line height": "Výška řádku",
-    "Dropped file type is not supported": "Dropped file type is not supported",
+    "Dropped file type is not supported": "Nahrávaný soubor není podporován",
     "Loading...": "Nahrávání...",
     "ImageProxy HTTP error: Rejected request": "Chyba ImageProxy HTTP: Požadavek zamítnut",
     "ImageProxy HTTP error: Could not find Image Proxy": "Chyba ImageProxy HTTP: Nelze nalest Image Proxy",
