@@ -1,14 +1,8 @@
-/*!
- * TinyMCE Language Pack
- *
- * Copyright (c) 2022 Ephox Corporation DBA Tiny Technologies, Inc.
- * Licensed under the Tiny commercial license. See https://www.tiny.cloud/legal/
- */
-tinymce.addI18n('nl_BE', {
+tinymce.addI18n("nl_BE", {
     "Redo": "Opnieuw doen",
     "Undo": "Ongedaan maken",
     "Cut": "Knippen",
-    "Copy": "Kopiëren",
+    "Copy": "Kopi\xebren",
     "Paste": "Plakken",
     "Select all": "Alles selecteren",
     "New document": "Nieuw document",
@@ -98,7 +92,7 @@ tinymce.addI18n('nl_BE', {
     "Insert link (if link plugin activated)": "Link invoegen (als link plug-in geactiveerd is)",
     "Save (if save plugin activated)": "Opslaan (als opslaan plug-in geactiveerd is)",
     "Find (if searchreplace plugin activated)": "Zoeken (als zoeken/vervangen plug-in geactiveerd is)",
-    "Plugins installed ({0}):": "Geïnstalleerde plugins ({0}):",
+    "Plugins installed ({0}):": "Ge\xefnstalleerde plugins ({0}):",
     "Premium plugins:": "Premium plug-ins:",
     "Learn more...": "Leer meer...",
     "You are using {0}": "U gebruikt {0}",
@@ -183,7 +177,7 @@ tinymce.addI18n('nl_BE', {
     "Row properties": "Rijeigenschappen",
     "Cut row": "Rij knippen",
     "Cut column": "Knip kolom",
-    "Copy row": "Rij kopiëren",
+    "Copy row": "Rij kopi\xebren",
     "Copy column": "Kopieer kolom",
     "Paste row before": "Rij boven plakken",
     "Paste column before": "Plak kolom voor",
