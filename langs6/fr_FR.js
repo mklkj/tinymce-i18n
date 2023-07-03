@@ -74,7 +74,7 @@ tinymce.addI18n("fr_FR", {
     "Special character...": "Caract\xe8re sp\xe9cial...",
     "Special Character": "Caract\xe8re sp\xe9cial",
     "Source code": "Code source",
-    "Insert/Edit code sample": "Ins\xe9rer / modifier une exemple de code",
+    "Insert/Edit code sample": "Ins\xe9rer / modifier un bloc de code",
     "Language": "Langue",
     "Code sample...": "Exemple de code...",
     "Left to right": "De gauche \xe0 droite",
