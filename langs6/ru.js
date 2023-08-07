@@ -399,8 +399,8 @@ tinymce.addI18n("ru", {
     "Line height": "\u0412\u044b\u0441\u043e\u0442\u0430 \u0441\u0442\u0440\u043e\u043a\u0438",
     "Dropped file type is not supported": "\u0422\u0438\u043f \u0444\u0430\u0439\u043b\u0430 \u043d\u0435 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442\u0441\u044f",
     "Loading...": "\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430...",
-    "ImageProxy HTTP error: Rejected request": "",
-    "ImageProxy HTTP error: Could not find Image Proxy": "",
-    "ImageProxy HTTP error: Incorrect Image Proxy URL": "",
-    "ImageProxy HTTP error: Unknown ImageProxy error": ""
+    "ImageProxy HTTP error: Rejected request": "\u041e\u0448\u0438\u0431\u043a\u0430 HTTP ImageProxy: \u0437\u0430\u043f\u0440\u043e\u0441 \u043e\u0442\u043a\u043b\u043e\u043d\u0435\u043d",
+    "ImageProxy HTTP error: Could not find Image Proxy": "\u041e\u0448\u0438\u0431\u043a\u0430 HTTP ImageProxy: \u043d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u043d\u0430\u0439\u0442\u0438 Image Proxy",
+    "ImageProxy HTTP error: Incorrect Image Proxy URL": "\u041e\u0448\u0438\u0431\u043a\u0430 HTTP ImageProxy: \u043d\u0435\u0432\u0435\u0440\u043d\u044b\u0439 URL-\u0430\u0434\u0440\u0435\u0441 Image Proxy",
+    "ImageProxy HTTP error: Unknown ImageProxy error": "\u041e\u0448\u0438\u0431\u043a\u0430 HTTP ImageProxy: \u043d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u0430\u044f \u043e\u0448\u0438\u0431\u043a\u0430 ImageProxy"
 });
