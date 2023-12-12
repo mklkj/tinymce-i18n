@@ -260,7 +260,7 @@ tinymce.addI18n('it',{
 "File": "File",
 "Edit": "Modifica",
 "Insert": "Inserisci",
-"View": "Visualiza",
+"View": "Visualizza",
 "Format": "Formato",
 "Table": "Tabella",
 "Tools": "Strumenti",
