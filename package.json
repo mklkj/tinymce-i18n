@@ -1,6 +1,6 @@
 {
   "name": "tinymce-i18n",
-  "version": "23.12.4",
+  "version": "23.12.19",
   "description": "Languages for TinyMCE 4, 5 and 6",
   "keywords": [
     "i18n",
@@ -23,6 +23,6 @@
     "update": "sh update.sh"
   },
   "devDependencies": {
-    "js-beautify": "^1.14.3"
+    "js-beautify": "^1.14.11"
   }
 }
