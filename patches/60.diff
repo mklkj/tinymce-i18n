@@ -1,0 +1,13 @@
+diff --git a/langs5/it.js b/langs5/it.js
+index dc294f4..d0c46f4 100644
+--- a/langs5/it.js
++++ b/langs5/it.js
+@@ -260,7 +260,7 @@ tinymce.addI18n('it',{
+ "File": "File",
+ "Edit": "Modifica",
+ "Insert": "Inserisci",
+-"View": "Visualiza",
++"View": "Visualizza",
+ "Format": "Formato",
+ "Table": "Tabella",
+ "Tools": "Strumenti",
