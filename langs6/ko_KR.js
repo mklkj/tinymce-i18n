@@ -267,7 +267,7 @@ tinymce.addI18n("ko_KR", {
     "Rich Text Area": "\uc11c\uc2dd \ud14d\uc2a4\ud2b8 \uc601\uc5ed",
     "Rich Text Area. Press ALT-0 for help.": "\uc11c\uc2dd \uc788\ub294 \ud14d\uc2a4\ud2b8 \uc601\uc5ed. ALT-0\uc744 \ub204\ub974\uba74 \ub3c4\uc6c0\ub9d0\uc744 \ubcfc \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
     "System Font": "\uc2dc\uc2a4\ud15c \uae00\uaf34",
-    "Failed to upload image: {0}": "\uc774\ubbf8\uc9c0 \uc5c5\ub85c\ub4dc \uc2e4\ud328: {0}",
+    "Failed to upload image: {0}": "\uc774\ubbf8\uc9c0{0}\uc744(\ub97c) \uc5c5\ub85c\ub4dc \ud558\uc9c0 \ubabb\ud588\uc2b5\ub2c8\ub2e4.",
     "Failed to load plugin: {0} from url {1}": "URL {1}\ub85c\ubd80\ud130 \ud50c\ub7ec\uadf8\uc778 {0}\uc744 \ubd88\ub7ec\uc624\uc9c0 \ubabb\ud588\uc2b5\ub2c8\ub2e4.",
     "Failed to load plugin url: {0}": "\ud50c\ub7ec\uadf8\uc778 URL {0}\uc744 \ubd88\ub7ec\uc624\uc9c0 \ubabb\ud588\uc2b5\ub2c8\ub2e4.",
     "Failed to initialize plugin: {0}": "\ud50c\ub7ec\uadf8\uc778 {0}\uc758 \ucd08\uae30\ud654\uac00 \uc2e4\ud328\ud588\uc2b5\ub2c8\ub2e4",
