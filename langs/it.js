@@ -115,7 +115,7 @@ tinymce.addI18n('it',{
 "Insert\/edit image": "Aggiungi\/Modifica Immagine",
 "Image description": "Descrizione Immagine",
 "Source": "Fonte",
-"Dimensions": "Dimenzioni",
+"Dimensions": "Dimensioni",
 "Constrain proportions": "Mantieni Proporzioni",
 "General": "Generale",
 "Advanced": "Avanzato",
