@@ -1,0 +1,138 @@
+diff --git a/langs/it.js b/langs/it.js
+index 2af920b..6046f38 100644
+--- a/langs/it.js
++++ b/langs/it.js
+@@ -115,7 +115,7 @@ tinymce.addI18n('it',{
+ "Insert\/edit image": "Aggiungi\/Modifica Immagine",
+ "Image description": "Descrizione Immagine",
+ "Source": "Fonte",
+-"Dimensions": "Dimensioni",
++"Dimensions": "Dimenzioni",
+ "Constrain proportions": "Mantieni Proporzioni",
+ "General": "Generale",
+ "Advanced": "Avanzato",
+@@ -258,4 +258,4 @@ tinymce.addI18n('it',{
+ "Tools": "Strumenti",
+ "Powered by {0}": "Fornito da {0}",
+ "Rich Text Area. Press ALT-F9 for menu. Press ALT-F10 for toolbar. Press ALT-0 for help": "Rich Text Area. Premi ALT-F9 per il men\u00f9. Premi ALT-F10 per la barra degli strumenti. Premi ALT-0 per l'aiuto."
+-});
++});
+\ No newline at end of file
+diff --git a/langs5/it.js b/langs5/it.js
+index 5972d3f..d0c46f4 100644
+--- a/langs5/it.js
++++ b/langs5/it.js
+@@ -115,7 +115,7 @@ tinymce.addI18n('it',{
+ "Insert\/edit image": "Aggiungi\/Modifica Immagine",
+ "Image description": "Descrizione Immagine",
+ "Source": "Fonte",
+-"Dimensions": "Dimensioni",
++"Dimensions": "Dimenzioni",
+ "Constrain proportions": "Mantieni Proporzioni",
+ "General": "Generale",
+ "Advanced": "Avanzato",
+@@ -156,7 +156,7 @@ tinymce.addI18n('it',{
+ "None": "No",
+ "New window": "Nuova Finestra",
+ "Remove link": "Rimuovi link",
+-"Anchors": "Ancore",
++"Anchors": "Anchors",
+ "Link...": "Collegamento...",
+ "Paste or type a link": "Incolla o digita un collegamento",
+ "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "L'URL inserito sembra essere un indirizzo email. Vuoi aggiungere il prefisso necessario mailto:?",
+@@ -178,9 +178,9 @@ tinymce.addI18n('it',{
+ "Print...": "Stampa...",
+ "Save": "Salva",
+ "Find": "Trova",
+-"Replace with": "Sostituisci con",
++"Replace with": "Sostituisci Con",
+ "Replace": "Sostituisci",
+-"Replace all": "Sostituisci tutto",
++"Replace all": "Sostituisci Tutto",
+ "Previous": "Indietro",
+ "Next": "Successivo",
+ "Find and replace...": "Trova e sostituisci...",
+@@ -189,9 +189,9 @@ tinymce.addI18n('it',{
+ "Find whole words only": "Trova solo parole intere",
+ "Spell check": "Controllo ortografia",
+ "Ignore": "Ignora",
+-"Ignore all": "Ignora tutto",
++"Ignore all": "Ignora Tutto",
+ "Finish": "Termina",
+-"Add to Dictionary": "Aggiungi al dizionario",
++"Add to Dictionary": "Aggiungi al Dizionario",
+ "Insert table": "Inserisci Tabella",
+ "Table properties": "Propiet\u00e0 della Tabella",
+ "Delete table": "Cancella Tabella",
+@@ -207,22 +207,22 @@ tinymce.addI18n('it',{
+ "Row properties": "Propriet\u00e0 della Riga",
+ "Cut row": "Taglia Riga",
+ "Copy row": "Copia Riga",
+-"Paste row before": "Incolla una riga prima",
+-"Paste row after": "Incolla una riga dopo",
+-"Insert column before": "Inserisci una colonna prima",
+-"Insert column after": "Inserisci una colonna dopo",
+-"Delete column": "Cancella colonna",
++"Paste row before": "Incolla una Riga Prima",
++"Paste row after": "Incolla una Riga Dopo",
++"Insert column before": "Inserisci una Colonna Prima",
++"Insert column after": "Inserisci una Colonna Dopo",
++"Delete column": "Cancella Colonna",
+ "Cols": "Colonne",
+ "Rows": "Righe",
+ "Width": "Larghezza",
+ "Height": "Altezza",
+-"Cell spacing": "Spaziatura della cella",
+-"Cell padding": "Padding della cella",
++"Cell spacing": "Spaziatura della Cella",
++"Cell padding": "Padding della Cella",
+ "Show caption": "Mostra didascalia",
+ "Left": "Sinistra",
+ "Center": "Centro",
+ "Right": "Destra",
+-"Cell type": "Tipo di cella",
++"Cell type": "Tipo di Cella",
+ "Scope": "Campo",
+ "Alignment": "Allineamento",
+ "H Align": "Allineamento H",
+@@ -232,7 +232,7 @@ tinymce.addI18n('it',{
+ "Bottom": "In fondo",
+ "Header cell": "cella d'intestazione",
+ "Row group": "Gruppo di Righe",
+-"Column group": "Gruppo di colonne",
++"Column group": "Gruppo di Colonne",
+ "Row type": "Tipo di Riga",
+ "Header": "Header",
+ "Body": "Body",
+@@ -249,7 +249,7 @@ tinymce.addI18n('it',{
+ "Remove color": "Rimuovi colore",
+ "Table of Contents": "Tabella dei contenuti",
+ "Show blocks": "Mostra Blocchi",
+-"Show invisible characters": "Mostra caratteri invisibili",
++"Show invisible characters": "Mostra Caratteri Invisibili",
+ "Word count": "Conteggio parole",
+ "Count": "Conteggio",
+ "Document": "Documento",
+@@ -401,8 +401,8 @@ tinymce.addI18n('it',{
+ "Special character": "Carattere Speciale",
+ "Code sample": "Esempio di codice",
+ "Color": "Colore",
+-"Emoticons": "Emoticon",
+-"Document properties": "Propriet\u00e0 documento",
++"Emoticons": "Emoction",
++"Document properties": "Propriet\u00e0 Documento",
+ "Image": "Immagine",
+ "Insert link": "Inserisci il Link",
+ "Target": "Target",
+@@ -412,8 +412,8 @@ tinymce.addI18n('it',{
+ "Print": "Stampa",
+ "Prev": "Precedente",
+ "Find and replace": "Trova e Sostituisci",
+-"Whole words": "Parole sbagliate",
++"Whole words": "Parole Sbagliate",
+ "Spellcheck": "Controllo ortografico",
+ "Caption": "Didascalia",
+-"Insert template": "Inserisci template"
+-});
++"Insert template": "Inserisci Template"
++});
