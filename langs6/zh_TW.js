@@ -1,4 +1,4 @@
-tinymce.addI18n("zh_SG", {
+tinymce.addI18n("zh_TW", {
     "#": "#",
     "Accessibility": "\u5354\u52a9\u5de5\u5177",
     "Accordion": "",
@@ -284,7 +284,7 @@ tinymce.addI18n("zh_SG", {
     "Range 0 to 255": "\u7bc4\u570d0\u81f3255",
     "Red": "\u7d05\u8272",
     "Red component": "\u7d05\u8272\u90e8\u5206",
-    "Redo": "\u91cd\u505a",
+    "Redo": "Test",
     "Remove": "\u79fb\u9664",
     "Remove color": "\u79fb\u9664\u984f\u8272",
     "Remove link": "\u79fb\u9664\u9023\u7d50",
