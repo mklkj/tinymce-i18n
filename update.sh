@@ -17,7 +17,7 @@ unzip -q langs7.zip
 mv langs langs7
 ./node_modules/.bin/js-beautify -q langs7/*
 
-# langs6
+# langs6 - disabled due to mismatch with langs7
 # unzip -q langs6.zip
 # mv langs langs6
 # ./node_modules/.bin/js-beautify -q langs6/*
