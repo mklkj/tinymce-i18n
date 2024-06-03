@@ -8,7 +8,6 @@
     "tinymce"
   ],
   "homepage": "https://github.com/mklkj/tinymce-i18n",
-  "type": "library",
   "license": "MIT",
   "authors": [
     {
