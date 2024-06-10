@@ -1,0 +1,60 @@
+diff --git a/langs/it.js b/langs/it.js
+index 6046f38..34ff199 100644
+--- a/langs/it.js
++++ b/langs/it.js
+@@ -115,7 +115,7 @@ tinymce.addI18n('it',{
+ "Insert\/edit image": "Aggiungi\/Modifica Immagine",
+ "Image description": "Descrizione Immagine",
+ "Source": "Fonte",
+-"Dimensions": "Dimenzioni",
++"Dimensions": "Dimensioni",
+ "Constrain proportions": "Mantieni Proporzioni",
+ "General": "Generale",
+ "Advanced": "Avanzato",
+@@ -204,7 +204,9 @@ tinymce.addI18n('it',{
+ "Delete row": "Cancella Riga",
+ "Row properties": "Propriet\u00e0 della Riga",
+ "Cut row": "Taglia Riga",
++"Cut column": "Taglia colonna",
+ "Copy row": "Copia Riga",
++"Copy column": "Copia colonna",
+ "Paste row before": "Incolla una Riga Prima",
+ "Paste row after": "Incolla una Riga Dopo",
+ "Insert column before": "Inserisci una Colonna Prima",
+@@ -258,4 +260,4 @@ tinymce.addI18n('it',{
+ "Tools": "Strumenti",
+ "Powered by {0}": "Fornito da {0}",
+ "Rich Text Area. Press ALT-F9 for menu. Press ALT-F10 for toolbar. Press ALT-0 for help": "Rich Text Area. Premi ALT-F9 per il men\u00f9. Premi ALT-F10 per la barra degli strumenti. Premi ALT-0 per l'aiuto."
+-});
+\ No newline at end of file
++});
+diff --git a/langs5/it.js b/langs5/it.js
+index d0c46f4..9580383 100644
+--- a/langs5/it.js
++++ b/langs5/it.js
+@@ -115,7 +115,7 @@ tinymce.addI18n('it',{
+ "Insert\/edit image": "Aggiungi\/Modifica Immagine",
+ "Image description": "Descrizione Immagine",
+ "Source": "Fonte",
+-"Dimensions": "Dimenzioni",
++"Dimensions": "Dimensioni",
+ "Constrain proportions": "Mantieni Proporzioni",
+ "General": "Generale",
+ "Advanced": "Avanzato",
+@@ -206,7 +206,9 @@ tinymce.addI18n('it',{
+ "Delete row": "Cancella Riga",
+ "Row properties": "Propriet\u00e0 della Riga",
+ "Cut row": "Taglia Riga",
++"Cut column": "Taglia colonna",
+ "Copy row": "Copia Riga",
++"Copy column": "Copia colonna",
+ "Paste row before": "Incolla una Riga Prima",
+ "Paste row after": "Incolla una Riga Dopo",
+ "Insert column before": "Inserisci una Colonna Prima",
+@@ -416,4 +418,4 @@ tinymce.addI18n('it',{
+ "Spellcheck": "Controllo ortografico",
+ "Caption": "Didascalia",
+ "Insert template": "Inserisci Template"
+-});
+\ No newline at end of file
++});
