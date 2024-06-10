@@ -271,8 +271,8 @@ tinymce.addI18n("id", {
     "Preferences": "Preferensi",
     "Preformatted": "Praformat",
     "Premium plugins:": "Plugin premium:",
-    "Press the Up and Down arrow keys to resize the editor.": "",
-    "Press the arrow keys to resize the editor.": "",
+    "Press the Up and Down arrow keys to resize the editor.": "Tekan tombol panah Atas dan Bawah untuk mengubah ukuran editor.",
+    "Press the arrow keys to resize the editor.": "Tekan tombol panah untuk mengubah ukuran editor.",
     "Press {0} for help": "",
     "Preview": "Pratinjau",
     "Previous": "Sebelumnya",
@@ -293,7 +293,7 @@ tinymce.addI18n("id", {
     "Replace with": "Ganti dengan",
     "Resize": "Ubah ukuran",
     "Restore last draft": "Pulihkan draf sebelumnya",
-    "Reveal or hide additional toolbar items": "",
+    "Reveal or hide additional toolbar items": "Tampilkan atau sembunyikan item bilah alat tambahan",
     "Rich Text Area": "Area Rich Text",
     "Rich Text Area. Press ALT-0 for help.": "Area Teks Kaya. Tekan ALT-0 untuk bantuan.",
     "Rich Text Area. Press ALT-F9 for menu. Press ALT-F10 for toolbar. Press ALT-0 for help": "Area Teks Kaya. Tekan ALT-F9 untuk menu. Tekan ALT-F10 untuk bilah alat. Tekan ALT-0 untuk bantuan",
@@ -421,6 +421,6 @@ tinymce.addI18n("id", {
     "yuan character": "karakter yuan",
     "yuan character, in hong kong and taiwan": "karakter yuan, di hong kong dan taiwan",
     "{0} characters": "{0} karakter",
-    "{0} columns, {1} rows": "",
+    "{0} columns, {1} rows": "Kolom {0}, baris {1}",
     "{0} words": "{0} kata"
 });
