@@ -29,7 +29,7 @@ tinymce.addI18n("zh_CN", {
     "Black": "\u9ed1\u8272",
     "Block": "\u5757",
     "Block {0}": "\u6587\u672c\u5757{0}",
-    "Blockquote": "\u5f15\u6587\u533a\u5757",
+    "Blockquote": "Blockquote",
     "Blocks": "\u6837\u5f0f",
     "Blue": "\u84dd\u8272",
     "Blue component": "\u767d\u8272\u90e8\u5206",
