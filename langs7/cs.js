@@ -41,7 +41,7 @@ tinymce.addI18n("cs", {
     "Border width": "\u0160\xed\u0159ka ohrani\u010den\xed",
     "Bottom": "Dol\u016f",
     "Browse files": "Proch\xe1zet soubory",
-    "Browse for an image": "Vyhledat obr\xe1zek",
+    "Browse for an image": "Vybrat obr\xe1zek",
     "Browse links": "Proch\xe1zet odkazy",
     "Bullet list": "Odr\xe1\u017eky",
     "Cancel": "Zru\u0161it",
