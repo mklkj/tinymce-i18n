@@ -272,7 +272,7 @@ tinymce.addI18n("bn_BD", {
     "Preformatted": "\u09aa\u09c2\u09b0\u09cd\u09ac\u09ac\u09bf\u09a8\u09cd\u09af\u09be\u09b8\u09bf\u09a4",
     "Premium plugins:": "\u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09af\u09bc\u09be\u09ae \u09aa\u09cd\u09b2\u09be\u0997\u0987\u09a8:",
     "Press the Up and Down arrow keys to resize the editor.": "",
-    "Press the arrow keys to resize the editor.": "",
+    "Press the arrow keys to resize the editor.": ".",
     "Press {0} for help": "",
     "Preview": "\u09aa\u09c2\u09b0\u09cd\u09ac\u09b0\u09c2\u09aa",
     "Previous": "\u09aa\u09c2\u09b0\u09cd\u09ac\u09ac\u09b0\u09cd\u09a4\u09c0",
