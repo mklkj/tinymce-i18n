@@ -41,7 +41,7 @@ tinymce.addI18n("zh_TW", {
     "Border width": "\u908a\u6846\u5bec\u5ea6",
     "Bottom": "\u4e0b\u65b9\u5c0d\u9f4a",
     "Browse files": "\u700f\u89bd\u6a94\u6848",
-    "Browse for an image": "\u700f\u89bd\u5716\u50cf",
+    "Browse for an image": "\u5f9e\u5716\u7247\u4e2d\u700f\u89bd",
     "Browse links": "\u700f\u89bd\u9023\u7d50",
     "Bullet list": "\u9805\u76ee\u6e05\u55ae",
     "Cancel": "\u53d6\u6d88",
