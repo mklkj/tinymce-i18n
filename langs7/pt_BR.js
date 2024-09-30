@@ -284,7 +284,7 @@ tinymce.addI18n("pt_BR", {
     "Range 0 to 255": "Faixa entre 0 e 255",
     "Red": "Vermelho",
     "Red component": "Componente vermelho",
-    "Redo": "Refazer",
+    "Redo": "Redo",
     "Remove": "Remover",
     "Remove color": "Remover cor",
     "Remove link": "Remover link",
