@@ -284,7 +284,7 @@ tinymce.addI18n("pl", {
     "Range 0 to 255": "Od 0 do 255",
     "Red": "Czerwony",
     "Red component": "Czerwony",
-    "Redo": "Powt\xf3rz",
+    "Redo": "Redo",
     "Remove": "Usu\u0144",
     "Remove color": "Usu\u0144 kolor",
     "Remove link": "Usu\u0144 \u0142\u0105cze",
