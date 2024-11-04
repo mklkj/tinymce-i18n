@@ -162,7 +162,7 @@ tinymce.addI18n("zh_TW", {
     "Help": "\u5e6b\u52a9",
     "Hex color code": "\u5341\u516d\u9032\u4f4d\u984f\u8272\u4ee3\u78bc",
     "Hidden": "\u96b1\u85cf",
-    "Horizontal align": "\u6c34\u6e96\u5c0d\u9f4a",
+    "Horizontal align": "\u6c34\u5e73\u5c0d\u9f4a",
     "Horizontal line": "\u6c34\u6e96\u5206\u5272\u7dda",
     "Horizontal space": "\u6c34\u5e73\u9593\u8ddd",
     "ID": "ID",
