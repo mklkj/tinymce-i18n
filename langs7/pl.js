@@ -243,7 +243,7 @@ tinymce.addI18n("pl", {
     "Nonbreaking space": "Nie\u0142amliwa spacja",
     "None": "Brak",
     "Numbered list": "Lista numerowana",
-    "OR": "LUB",
+    "OR": "OR",
     "Objects": "Obiekty",
     "Ok": "Ok",
     "Open help dialog": "Otw\xf3rz okno dialogowe pomocy",
