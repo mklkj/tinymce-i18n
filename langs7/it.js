@@ -245,7 +245,7 @@ tinymce.addI18n("it", {
     "Numbered list": "Elenco numerato",
     "OR": "OPPURE",
     "Objects": "Oggetti",
-    "Ok": "OK",
+    "Ok": "Ok",
     "Open help dialog": "Apri la finestra di aiuto",
     "Open link": "Apri link",
     "Open link in...": "Apri collegamento in...",
