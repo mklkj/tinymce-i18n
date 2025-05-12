@@ -59,7 +59,7 @@ tinymce.addI18n("pt_BR", {
     "Class": "Classe",
     "Clear formatting": "Limpar formata\xe7\xe3o",
     "Close": "Fechar",
-    "Code": "Monoespa\xe7ada",
+    "Code": "Mono espa\xe7ada",
     "Code sample...": "C\xf3digo...",
     "Code view": "Ver c\xf3digo",
     "Color Picker": "Seletor de cores",

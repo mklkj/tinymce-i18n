@@ -211,7 +211,7 @@ tinymce.addI18n("ko_KR", {
     "Light Purple": "\ubc1d\uc740 \ubcf4\ub77c\uc0c9",
     "Light Red": "\ubc1d\uc740 \ube68\uac04\uc0c9",
     "Light Yellow": "\ubc1d\uc740 \ub178\ub780\uc0c9",
-    "Line height": "\ud589 \ub192\uc774",
+    "Line height": "\uc904 \uac04\uaca9",
     "Link list": "\ub9c1\ud06c \ubaa9\ub85d",
     "Link...": "\ub9c1\ud06c...",
     "List Properties": "\ud56d\ubaa9 \uc18d\uc131",

@@ -284,7 +284,7 @@ tinymce.addI18n("nb_NO", {
     "Range 0 to 255": "Spenn 0 til 255",
     "Red": "R\xf8d",
     "Red component": "R\xf8d komponent",
-    "Redo": "Gj\xf8r om",
+    "Redo": "Redo",
     "Remove": "Fjern",
     "Remove color": "Fjern farge",
     "Remove link": "Fjern lenke",
