@@ -284,7 +284,7 @@ tinymce.addI18n("lt", {
     "Range 0 to 255": "Nuo 0 iki 255",
     "Red": "Raudona",
     "Red component": "Raudonas komponentas",
-    "Redo": "Gr\u0105\u017einti",
+    "Redo": "Redo",
     "Remove": "Pa\u0161alinti",
     "Remove color": "Pa\u0161alinti spalv\u0105",
     "Remove link": "\u0160alinti nuorod\u0105",
