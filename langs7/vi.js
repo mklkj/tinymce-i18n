@@ -53,7 +53,7 @@ tinymce.addI18n("vi", {
     "Cell styles": "Ki\u1ec3u d\xe1ng \xf4",
     "Cell type": "Lo\u1ea1i \xf4",
     "Center": "Gi\u1eefa",
-    "Characters": "Nh\xe2n v\u1eadt",
+    "Characters": "K\xfd t\u1ef1",
     "Characters (no spaces)": "K\xfd t\u1ef1 (kh\xf4ng kho\u1ea3ng tr\u1ed1ng)",
     "Circle": "H\xecnh tr\xf2n",
     "Class": "L\u1edbp",
