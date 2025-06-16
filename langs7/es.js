@@ -285,7 +285,7 @@ tinymce.addI18n("es", {
     "Red": "Rojo",
     "Red component": "Componente rojo",
     "Redo": "Redo",
-    "Remove": "Quitar",
+    "Remove": "Remover",
     "Remove color": "Quitar color",
     "Remove link": "Quitar enlace",
     "Replace": "Reemplazar",
