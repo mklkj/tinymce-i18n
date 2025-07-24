@@ -21,7 +21,11 @@ mv langs langs7
 # langs8 - for now, fallback to langs 7 with new names
 cp -r langs7 langs8
 for file in langs8/*_*; do
-  mv "$file" "${file//_/-}"
+  # change the id of the lang in the file
+  sed -i '1s/_/-/g' $file
+  # update the filename
+  newname=$(echo "$file" | sed 's/_/-/g')
+  mv "$file" "$newname"
 done
 
 # langs6 - disabled due to mismatch with langs7
