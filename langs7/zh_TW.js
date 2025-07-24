@@ -284,7 +284,7 @@ tinymce.addI18n("zh_TW", {
     "Range 0 to 255": "\u7bc4\u570d0\u81f3255",
     "Red": "\u7d05\u8272",
     "Red component": "\u7d05\u8272\u90e8\u5206",
-    "Redo": "Test",
+    "Redo": "\u91cd\u505a",
     "Remove": "\u79fb\u9664",
     "Remove color": "\u79fb\u9664\u984f\u8272",
     "Remove link": "\u79fb\u9664\u9023\u7d50",
