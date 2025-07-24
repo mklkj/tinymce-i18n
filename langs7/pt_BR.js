@@ -378,7 +378,7 @@ tinymce.addI18n("pt_BR", {
     "Yes": "Sim",
     "You are using {0}": "Voc\xea est\xe1 usando {0}",
     "You have unsaved changes are you sure you want to navigate away?": "Voc\xea tem altera\xe7\xf5es n\xe3o salvas. Voc\xea tem certeza de que deseja sair?",
-    "Your browser doesn't support direct access to the clipboard. Please use the Ctrl+X/C/V keyboard shortcuts instead.": "O seu navegador n\xe3o suporta acesso direto \xe0 \xe1rea de transfer\xeancia. Por favor use os atalhos do teclado Ctrl+X/C/V como alternativa.",
+    "Your browser doesn't support direct access to the clipboard. Please use the Ctrl+X/C/V keyboard shortcuts instead.": "\nSeu navegador n\xe3o suporta acesso direto \xe0 \xe1rea de transfer\xeancia. Em vez disso, use os atalhos de teclado Ctrl+X/C/V.",
     "alignment": "alinhamento",
     "austral sign": "s\xedmbolo do austral",
     "cedi sign": "s\xedmbolo do cedi",
