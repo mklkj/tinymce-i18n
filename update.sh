@@ -1,5 +1,7 @@
 #!/usr/bin/env sh
 
+set -ex
+
 wget https://download.tiny.cloud/tinymce/community/languagepacks/7/langs.zip -O langs7.zip
 # wget https://download.tiny.cloud/tinymce/community/languagepacks/6/langs.zip -O langs6.zip
 #wget https://download.tiny.cloud/tinymce/community/languagepacks/5/langs.zip -O langs5.zip
