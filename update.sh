@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 
 set -ex
 
@@ -14,10 +14,54 @@ rm -rf ./langs
 rm -rf ./langs5
 # rm -rf ./langs6
 rm -rf ./langs7
+rm -rf ./langs8
 
 unzip -q langs7.zip
 mv langs langs7
 ./node_modules/.bin/js-beautify -q langs7/*
+
+# langs8 - for now, fallback to langs 7 with new names
+cp -r langs7 langs8
+
+# Use correct sed syntax for Linux vs macOS
+if [[ "$OSTYPE" == "darwin"* ]]; then
+  SED="sed -i ''"
+else
+  SED="sed -i"
+fi
+
+# Fix file content and rename files with underscores
+for file in langs8/*_*; do
+  [ -e "$file" ] || continue
+
+  dashed="${file//_/-}"
+
+  # change the id of the lang in the file
+  $SED 's/_/-/g' "$file"
+
+  # update the filename
+  if [[ "$file" != "$dashed" ]]; then
+    mv "$file" "$dashed"
+    echo "Renamed: $file → $dashed"
+  fi
+done
+
+# Fix macOS mistake: remove '' from filenames
+for file in langs8/*\'\'; do
+  [ -e "$file" ] || continue
+
+  fixed="${file//\'\'}"
+  mv "$file" "$fixed"
+  echo "Fixed extra quotes: $file → $fixed"
+done
+
+# Remove _ versions if - version exists
+for file in langs8/*_*; do
+  [ -e "$file" ] || continue
+
+  dashed="${file//_/-}"
+  [ -e "$dashed" ] && rm "$file" && echo "Removed duplicate: $file"
+done
 
 # langs6 - disabled due to mismatch with langs7
 # unzip -q langs6.zip
