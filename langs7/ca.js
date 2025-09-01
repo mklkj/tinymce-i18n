@@ -139,7 +139,7 @@ tinymce.addI18n("ca", {
     "Food and Drink": "Menjar i beure",
     "Footer": "Peu de p\xe0gina",
     "Format": "Format",
-    "Format {0}": "",
+    "Format {0}": "Format {0}",
     "Formats": "Formats",
     "Fullscreen": "Pantalla completa",
     "G": "G",
