@@ -218,7 +218,7 @@ tinymce.addI18n("pt_BR", {
     "List properties...": "Listar propriedades...",
     "Loading emojis...": "Carregando emojis...",
     "Loading...": "Carregando...",
-    "Lower Alpha": "Letra Min\xfasc.",
+    "Lower Alpha": "Letra Min\xfasc",
     "Lower Greek": "Grego Min\xfasc.",
     "Lower Roman": "Romano Min\xfasc.",
     "Match case": "Diferenciar mai\xfascula/min\xfascula",
