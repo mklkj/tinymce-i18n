@@ -22,6 +22,6 @@
     "update": "sh update.sh"
   },
   "devDependencies": {
-    "js-beautify": "^1.14.11"
+    "js-beautify": "^1.15.4"
   }
 }
