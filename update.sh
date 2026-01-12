@@ -2,6 +2,7 @@
 
 set -ex
 
+wget https://download.tiny.cloud/tinymce/community/languagepacks/8/langs.zip -O langs8.zip
 wget https://download.tiny.cloud/tinymce/community/languagepacks/7/langs.zip -O langs7.zip
 # wget https://download.tiny.cloud/tinymce/community/languagepacks/6/langs.zip -O langs6.zip
 #wget https://download.tiny.cloud/tinymce/community/languagepacks/5/langs.zip -O langs5.zip
@@ -20,8 +21,9 @@ unzip -q langs7.zip
 mv langs langs7
 ./node_modules/.bin/js-beautify -q langs7/*
 
-# langs8 - for now, fallback to langs 7 with new names
-cp -r langs7 langs8
+unzip -q langs8.zip
+mv langs langs8
+./node_modules/.bin/js-beautify -q langs8/*
 
 # Use correct sed syntax for Linux vs macOS
 if [[ "$OSTYPE" == "darwin"* ]]; then
