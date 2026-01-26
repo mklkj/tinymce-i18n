@@ -372,7 +372,7 @@ tinymce.addI18n("id", {
     "Uploading image": "Unggah gambar",
     "Upper Alpha": "Huruf Besar",
     "Upper Roman": "Huruf Besar Romawi",
-    "Url": "Url",
+    "Url": "Urlarcarbonmodifikasi.com",
     "Use arrow keys to navigate.": "Gunakan tombol panah untuk menavigasi.",
     "User Defined": "Ditentukan Pengguna",
     "Valid": "Valid",
