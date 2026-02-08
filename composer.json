@@ -9,7 +9,7 @@
   ],
   "homepage": "https://github.com/mklkj/tinymce-i18n",
   "type": "library",
-  "license": "SEE LICENSE IN LICENSE.md",
+  "license": ["MIT", "GPL-2.0-or-later"],
   "authors": [
     {
       "name": "TinyMCE Community"
