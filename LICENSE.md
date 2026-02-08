@@ -8,7 +8,7 @@ Please read the sections below carefully.
 
 ---
 
-## 1. Original code, tooling, and patches
+## 1. Original code, tooling, and translation patches
 
 All original content in this repository, including but not limited to:
 
@@ -16,7 +16,7 @@ All original content in this repository, including but not limited to:
 - download scripts
 - configuration files
 - repository metadata
-- **translation patches and adjustments applied to language files**
+- translation patches and adjustments applied to language files
 
 is licensed under the **MIT License**.
 
@@ -59,13 +59,12 @@ The language pack files are:
 
 - community-contributed
 - curated and distributed by **Tiny Technologies Inc.**
-- licensed under the **same license as the corresponding TinyMCE version**
+- licensed under the **same terms as the corresponding TinyMCE version**
   with which they are distributed
 
 This repository **does not relicense** these language pack files.
-
-Users of this package are responsible for complying with the applicable
-TinyMCE license terms (GPL / LGPL or commercial, depending on usage).
+Users of this package are responsible for complying with the applicable TinyMCE
+license terms for the language files they use.
 
 ---
 
