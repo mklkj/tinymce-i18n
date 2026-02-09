@@ -78,5 +78,11 @@ mv langs langs5
 unzip -q langs4.zip
 
 git apply patches/*
+
+# stop script if there is no lang updates
+git diff --quiet && git diff --cached --quiet && exit 0
+
+echo "Changes in langs detected, updating version in package.json"
+
 jq ".version = \"`date +%y.%-m.%-d`\"" package.json > tmp.$$.json && mv tmp.$$.json package.json
 npm install
