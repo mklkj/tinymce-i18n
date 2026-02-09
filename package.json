@@ -1,14 +1,14 @@
 {
   "name": "tinymce-i18n",
-  "version": "25.2.3",
-  "description": "Languages for TinyMCE 4, 5, 6 and 7",
+  "version": "26.1.12",
+  "description": "Languages for TinyMCE 4, 5, 6, 7 and 8",
   "keywords": [
     "i18n",
     "languages",
     "tinymce"
   ],
   "homepage": "https://github.com/mklkj/tinymce-i18n",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE.md",
   "authors": [
     {
       "name": "TinyMCE Community"
@@ -22,6 +22,6 @@
     "update": "sh update.sh"
   },
   "devDependencies": {
-    "js-beautify": "^1.14.11"
+    "js-beautify": "^1.15.4"
   }
 }

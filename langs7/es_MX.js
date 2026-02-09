@@ -106,7 +106,7 @@ tinymce.addI18n("es_MX", {
     "Dotted": "Punteado",
     "Double": "Doble",
     "Drop an image here": "Soltar una imagen aqu\xed",
-    "Dropped file type is not supported": "No se soporta el archivo arrastrado",
+    "Dropped file type is not supported": "Tipo de archivo arrastrado no soportado",
     "Edit": "Editar",
     "Embed": "Insertar",
     "Emojis": "Emojis",
