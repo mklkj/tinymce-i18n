@@ -1,5 +1,5 @@
 tinymce.addI18n("pl", {
-    "#": "",
+    "#": "#",
     "Accessibility": "Dost\u0119pno\u015b\u0107",
     "Accordion": "Element Accordion",
     "Accordion body...": "Tre\u015b\u0107 elementu Accordion...",
