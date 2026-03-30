@@ -294,7 +294,7 @@ tinymce.addI18n("it", {
     "Range 0 to 255": "Intervallo da 0 a 255",
     "Red": "Rosso",
     "Red channel": "",
-    "Redo": "",
+    "Redo": "Ripristina",
     "Remove": "Rimuovi",
     "Remove color": "Rimuovi colore",
     "Remove link": "Rimuovi collegamento",
